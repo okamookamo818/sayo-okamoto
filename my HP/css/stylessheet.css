@@ -1,0 +1,118 @@
+@media screen and (max-width:590px ){
+
+.message{
+  left:35px;
+  top:30px;
+}
+
+    .message p{
+      font-size: 18px;
+    }
+
+.top-wrapper{
+  height: 300px;
+}
+
+.name{
+  padding-bottom: 25px;
+}
+
+.name h1{
+  font-size: 24px;
+}
+
+.about h1{
+  font-size: 36px;
+}
+
+.about-me{
+  margin: 0 30px;
+  font-size:14px;
+}
+
+.beforeafter{
+  width: 350px;
+  height: auto;
+
+}
+
+.about2{
+  height: 4100px;
+}
+.challenge-list{
+  margin: 0 30px;
+  height:1100px;
+}
+
+.challenge-list h1{
+  font-size: 36px;
+}
+
+.challenge-list p{
+  margin: 0 30px;
+  font-size: 14px;
+}
+
+.lists{
+  margin:0 30px;
+  display: block;
+  padding-top: 70px;
+
+}
+
+
+.list{
+  width: 100%;
+  margin-bottom: 50px;
+}
+.lists h2{
+  font-size: 20px;
+}
+
+.lists ul{
+font-size: 14px;
+}
+
+.sns-lists{
+  margin:70px 30px;
+
+}
+
+
+.sns-list{
+  display:block;
+
+  }
+
+  .photos{
+    width: 100%;
+    height: auto;
+    padding-bottom: 30px;
+
+}
+
+
+.sns{
+  width: 100%;
+
+}
+
+.sns h2{
+  font-size: 20px;
+}
+
+.sns-lists h1{
+font-size: 36px;
+padding-bottom: 30px;
+}
+
+.sns-lists p,a{
+    font-size: 14px;
+}
+
+.sns-lists{
+  height: 3500px;
+
+}
+
+}
