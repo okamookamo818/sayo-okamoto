@@ -21,6 +21,10 @@
   font-size: 24px;
 }
 
+.about{
+  height: 900px;
+}
+
 .about h1{
   font-size: 36px;
 }
@@ -40,8 +44,8 @@
   height: 4100px;
 }
 .challenge-list{
-  margin: 0 30px;
-  height:1100px;
+  margin: 0 15px;
+  height:1300px;
 }
 
 .challenge-list h1{
@@ -49,12 +53,12 @@
 }
 
 .challenge-list p{
-  margin: 0 30px;
+  margin: 0 15px;
   font-size: 14px;
 }
 
 .lists{
-  margin:0 30px;
+  margin:0 20px;
   display: block;
   padding-top: 70px;
 
@@ -111,7 +115,7 @@ padding-bottom: 30px;
 }
 
 .sns-lists{
-  height: 3500px;
+  height: 3300px;
 
 }
 
